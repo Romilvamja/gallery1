@@ -1,0 +1,44 @@
+PODS:
+  - AppLocker (2.0):
+    - Valet
+  - FMPhotoPicker (1.3.0)
+  - PryntTrimmerView (4.0.2)
+  - SDWebImage/Core (5.19.2)
+  - SDWebImagePhotosPlugin (1.2.0):
+    - SDWebImage/Core (~> 5.10)
+  - SteviaLayout (5.1.2)
+  - Valet (4.3.0)
+  - YPImagePicker (5.2.2):
+    - PryntTrimmerView (= 4.0.2)
+    - SteviaLayout (= 5.1.2)
+
+DEPENDENCIES:
+  - AppLocker
+  - FMPhotoPicker
+  - SDWebImagePhotosPlugin
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - AppLocker
+    - FMPhotoPicker
+    - PryntTrimmerView
+    - SDWebImage
+    - SDWebImagePhotosPlugin
+    - SteviaLayout
+    - Valet
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  AppLocker: ad734b8027d26ae5cbb4a70eed2bed30159c3b71
+  FMPhotoPicker: 954d3c3e72521baffecdc23422ae149fdde3cd63
+  PryntTrimmerView: 6a43cc90df5d99addeabd33d4ba09b1365322130
+  SDWebImage: dfe95b2466a9823cf9f0c6d01217c06550d7b29a
+  SDWebImagePhotosPlugin: 7d52495711a00637da16bbd7098a634f524c8d7e
+  SteviaLayout: 05424e528d643657d39ce72c786e4adf13cfc5f2
+  Valet: 0eddc2f5876e7907a54b7763823eadb3fb3900cb
+  YPImagePicker: afc81b3cffab05a6e7261c5daf80dc31b4e917b4
+
+PODFILE CHECKSUM: 245cc4e09108e58af2ab52259c02a60b7ccbab2f
+
+COCOAPODS: 1.12.1
